@@ -5,7 +5,7 @@
 // SPDX-License-Identifier: LGPL-3.0-or-later
 //
 // Source of truth: github.com/ariannamethod/ariannamethod.ai
-// Embed (copy) into your project. Do not link.
+// Embed (copy) into your project or link.
 //
 // This is the stone. The brick. The breath.
 // Everything else is ritual overlay.
