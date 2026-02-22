@@ -16,7 +16,7 @@ import argparse
 from contextlib import nullcontext
 
 sys.path.insert(0, '/home/ubuntu/nanollama')
-sys.path.insert(0, '/home/ubuntu/grok')
+sys.path.insert(0, '/home/ubuntu/grokky.go/grokky')
 
 import torch
 import torch.distributed as dist
