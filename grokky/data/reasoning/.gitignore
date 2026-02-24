@@ -1,0 +1,4 @@
+# Large datasets — stored on HuggingFace (ataeff/nanollama-goldie/grokky/reasoning/)
+bespoke_stratos_17k.jsonl
+openr1_math_20k.jsonl
+openthoughts_20k.jsonl

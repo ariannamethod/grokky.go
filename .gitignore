@@ -1,2 +1,3 @@
 grokky_bin
 *.gguf
+__pycache__/
